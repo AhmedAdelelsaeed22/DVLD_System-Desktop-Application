@@ -1,0 +1,9 @@
+C:\Users\NV\Desktop\Course 19\DVLD_Business\bin\Debug\DVLD_Business.dll
+C:\Users\NV\Desktop\Course 19\DVLD_Business\bin\Debug\DVLD_Business.pdb
+C:\Users\NV\Desktop\Course 19\DVLD_Business\bin\Debug\DVLD_AccessData.dll
+C:\Users\NV\Desktop\Course 19\DVLD_Business\bin\Debug\DVLD_AccessData.pdb
+C:\Users\NV\Desktop\Course 19\DVLD_Business\obj\Debug\DVLD_Business.csproj.AssemblyReference.cache
+C:\Users\NV\Desktop\Course 19\DVLD_Business\obj\Debug\DVLD_Business.csproj.CoreCompileInputs.cache
+C:\Users\NV\Desktop\Course 19\DVLD_Business\obj\Debug\DVLD_Bus.1422E61B.Up2Date
+C:\Users\NV\Desktop\Course 19\DVLD_Business\obj\Debug\DVLD_Business.dll
+C:\Users\NV\Desktop\Course 19\DVLD_Business\obj\Debug\DVLD_Business.pdb

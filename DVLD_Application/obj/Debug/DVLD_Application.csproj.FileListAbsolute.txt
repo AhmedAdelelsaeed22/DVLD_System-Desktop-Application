@@ -1,0 +1,9 @@
+C:\Users\NV\Desktop\Course 19\DVLD_Application\bin\Debug\DVLD_Application.dll
+C:\Users\NV\Desktop\Course 19\DVLD_Application\bin\Debug\DVLD_Application.pdb
+C:\Users\NV\Desktop\Course 19\DVLD_Application\bin\Debug\DVLD_AccessData.dll
+C:\Users\NV\Desktop\Course 19\DVLD_Application\bin\Debug\DVLD_AccessData.pdb
+C:\Users\NV\Desktop\Course 19\DVLD_Application\obj\Debug\DVLD_Application.csproj.AssemblyReference.cache
+C:\Users\NV\Desktop\Course 19\DVLD_Application\obj\Debug\DVLD_Application.csproj.CoreCompileInputs.cache
+C:\Users\NV\Desktop\Course 19\DVLD_Application\obj\Debug\DVLD_App.B0C74A84.Up2Date
+C:\Users\NV\Desktop\Course 19\DVLD_Application\obj\Debug\DVLD_Application.dll
+C:\Users\NV\Desktop\Course 19\DVLD_Application\obj\Debug\DVLD_Application.pdb

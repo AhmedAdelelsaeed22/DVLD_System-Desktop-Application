@@ -1,0 +1,9 @@
+C:\Users\NV\Desktop\Course 19\clsCountries\bin\Debug\clsCountries.dll
+C:\Users\NV\Desktop\Course 19\clsCountries\bin\Debug\clsCountries.pdb
+C:\Users\NV\Desktop\Course 19\clsCountries\bin\Debug\DVLD_AccessData.dll
+C:\Users\NV\Desktop\Course 19\clsCountries\bin\Debug\DVLD_AccessData.pdb
+C:\Users\NV\Desktop\Course 19\clsCountries\obj\Debug\clsCountries.csproj.AssemblyReference.cache
+C:\Users\NV\Desktop\Course 19\clsCountries\obj\Debug\clsCountries.csproj.CoreCompileInputs.cache
+C:\Users\NV\Desktop\Course 19\clsCountries\obj\Debug\clsCount.39A78F8D.Up2Date
+C:\Users\NV\Desktop\Course 19\clsCountries\obj\Debug\clsCountries.dll
+C:\Users\NV\Desktop\Course 19\clsCountries\obj\Debug\clsCountries.pdb
