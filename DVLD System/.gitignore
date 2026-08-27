@@ -1,33 +1,17 @@
-﻿# ================================
-# Visual Studio
+# ================================
+# .NET / Visual Studio
 # ================================
 
-.vs/
-.vscode/
+# Build output - ALL projects/layers
+**/bin/
+**/obj/
 
-# User-specific Visual Studio files
+# Visual Studio
+.vs/
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
-
-# ================================
-# Build Output
-# ================================
-
-[Bb]in/
-[Oo]bj/
-x64/
-x86/
-Debug/
-Release/
-
-# ================================
-# Visual Studio Test
-# ================================
-
-TestResults/
-*.trx
 
 # ================================
 # NuGet
@@ -37,25 +21,30 @@ packages/
 *.nupkg
 *.snupkg
 
-# NuGet generated files
-project.assets.json
-project.nuget.cache
-
 # ================================
-# Logs
+# Logs / temporary files
 # ================================
 
 *.log
-
-# ================================
-# Temporary files
-# ================================
-
 *.tmp
 *.temp
 *.bak
-*.swp
-*~
+
+# ================================
+# Test / Coverage
+# ================================
+
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# ================================
+# Rider
+# ================================
+
+.idea/
+*.sln.iml
 
 # ================================
 # Windows
@@ -65,22 +54,7 @@ Thumbs.db
 Desktop.ini
 
 # ================================
-# Publish output
-# ================================
-
-publish/
-*.publishsettings
-
-# ================================
-# Code coverage
-# ================================
-
-coverage/
-*.coverage
-*.coveragexml
-
-# ================================
-# Database / local development
+# Database files
 # ================================
 
 *.db
@@ -88,27 +62,9 @@ coverage/
 *.sqlite3
 
 # ================================
-# Secrets
+# Secrets / local configuration
 # ================================
 
-# Local environment files
 .env
 .env.*
 !.env.example
-
-# User-specific local configuration
-appsettings.Development.json
-appsettings.Local.json
-
-# ================================
-# Rider / JetBrains
-# ================================
-
-.idea/
-*.sln.iml
-
-# ================================
-# OS generated files
-# ================================
-
-$RECYCLE.BIN/
