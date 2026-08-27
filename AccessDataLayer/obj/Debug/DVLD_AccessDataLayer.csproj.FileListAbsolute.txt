@@ -1,0 +1,9 @@
+C:\Users\NV\Desktop\DVLD_System\AccessDataLayer\bin\Debug\AccessDataLayer.dll
+C:\Users\NV\Desktop\DVLD_System\AccessDataLayer\bin\Debug\AccessDataLayer.pdb
+C:\Users\NV\Desktop\DVLD_System\AccessDataLayer\bin\Debug\AccessDataSettingLayer.dll
+C:\Users\NV\Desktop\DVLD_System\AccessDataLayer\bin\Debug\AccessDataSettingLayer.pdb
+C:\Users\NV\Desktop\DVLD_System\AccessDataLayer\obj\Debug\DVLD_AccessDataLayer.csproj.AssemblyReference.cache
+C:\Users\NV\Desktop\DVLD_System\AccessDataLayer\obj\Debug\DVLD_AccessDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\NV\Desktop\DVLD_System\AccessDataLayer\obj\Debug\DVLD_Acc.DAA60D59.Up2Date
+C:\Users\NV\Desktop\DVLD_System\AccessDataLayer\obj\Debug\AccessDataLayer.dll
+C:\Users\NV\Desktop\DVLD_System\AccessDataLayer\obj\Debug\AccessDataLayer.pdb

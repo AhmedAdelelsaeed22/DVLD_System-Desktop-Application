@@ -1,0 +1,11 @@
+C:\Users\NV\Desktop\DVLD_System\DVLD_BussinessLayer\bin\Debug\DVLD_BussinessLayer.dll
+C:\Users\NV\Desktop\DVLD_System\DVLD_BussinessLayer\bin\Debug\DVLD_BussinessLayer.pdb
+C:\Users\NV\Desktop\DVLD_System\DVLD_BussinessLayer\obj\Debug\DVLD_BussinessLayer.csproj.AssemblyReference.cache
+C:\Users\NV\Desktop\DVLD_System\DVLD_BussinessLayer\obj\Debug\DVLD_BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\NV\Desktop\DVLD_System\DVLD_BussinessLayer\obj\Debug\DVLD_BussinessLayer.dll
+C:\Users\NV\Desktop\DVLD_System\DVLD_BussinessLayer\obj\Debug\DVLD_BussinessLayer.pdb
+C:\Users\NV\Desktop\DVLD_System\DVLD_BussinessLayer\bin\Debug\AccessDataLayer.dll
+C:\Users\NV\Desktop\DVLD_System\DVLD_BussinessLayer\bin\Debug\AccessDataLayer.pdb
+C:\Users\NV\Desktop\DVLD_System\DVLD_BussinessLayer\obj\Debug\DVLD_Bus.5EE3EBF5.Up2Date
+C:\Users\NV\Desktop\DVLD_System\DVLD_BussinessLayer\bin\Debug\AccessDataSettingLayer.dll
+C:\Users\NV\Desktop\DVLD_System\DVLD_BussinessLayer\bin\Debug\AccessDataSettingLayer.pdb

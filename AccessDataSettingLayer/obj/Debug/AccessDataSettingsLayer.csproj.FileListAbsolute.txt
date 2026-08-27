@@ -1,0 +1,6 @@
+C:\Users\NV\Desktop\DVLD_System\AccessDataSettingLayer\bin\Debug\AccessDataSettingLayer.dll
+C:\Users\NV\Desktop\DVLD_System\AccessDataSettingLayer\bin\Debug\AccessDataSettingLayer.pdb
+C:\Users\NV\Desktop\DVLD_System\AccessDataSettingLayer\obj\Debug\AccessDataSettingsLayer.csproj.AssemblyReference.cache
+C:\Users\NV\Desktop\DVLD_System\AccessDataSettingLayer\obj\Debug\AccessDataSettingsLayer.csproj.CoreCompileInputs.cache
+C:\Users\NV\Desktop\DVLD_System\AccessDataSettingLayer\obj\Debug\AccessDataSettingLayer.dll
+C:\Users\NV\Desktop\DVLD_System\AccessDataSettingLayer\obj\Debug\AccessDataSettingLayer.pdb
